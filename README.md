@@ -1,6 +1,6 @@
 # Insight UI
 
-A Gamecredits blockchain explorer web application service for [Gamecore Node](https://github.com/gamecreditspay/gamecore-node) using the [Insight API](https://github.com/gamecreditspay/insight-lite-api).
+A Gamecredits blockchain explorer web application service for [Gamecore Node](https://github.com/gamecreditspay/gamecore-node) using the [Insight API](https://github.com/gamecreditspay/insight-game-api).
 
 ## Quick Start
 
@@ -14,7 +14,7 @@ To manually install all of the necessary components, you can run these commands:
 npm install -g gamecore-node
 gamecore-node create mynode
 cd mynode
-gamecore-node install insight-lite-api
+gamecore-node install insight-game-api
 gamecore-node install insight-game-ui
 gamecore-node start
 ```
@@ -70,7 +70,7 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/gamecreditspay/insight-lite-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/gamecreditspay/insight-lite-api).
+For more details about the [Insight API](https://github.com/gamecreditspay/insight-game-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/gamecreditspay/insight-game-api).
 
 ## Contribute
 
